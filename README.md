@@ -80,3 +80,17 @@ We welcome contributions! 🚀 Feel free to:
 - Report issues
 - Submit pull requests
 - Improve documentation
+
+---
+✅ Local Interface
+
+<p align="center">
+    <img src="assets/images/local.mp4" width="600">
+</p>
+
+---
+❓❓ Discarded APK ❓❓
+
+<p align="center">
+    <img src="assets/images/APK.mp4" width="600">
+</p>
