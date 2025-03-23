@@ -94,8 +94,8 @@ We welcome contributions! 🚀 Feel free to:
 ❓❓ Discarded APK ❓❓
 
 <p align="center">
-    <video width="600" controls>
-        <source src="assets/videos/APK.mp4" type="video/mp4">
-        Your browser does not support the video tag.
-    </video>
+    <a href="https://github.com/Reso_Scan/assets/videos/APK.mp4">
+        <img src="assets/images/video_thumbnail.png" width="600">
+    </a>
 </p>
+
