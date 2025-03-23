@@ -34,10 +34,10 @@ MRI scans are crucial for neurological diagnoses, but they are **time-consuming 
 ## 🏗 Project Workflow
 Our AI-based MRI reconstruction is structured into four key phases, each implemented in a Jupyter Notebook:
 
-1️⃣ **Preprocessing** → `notebooks/1_preprocessing.ipynb`  
-2️⃣ **Undersampling MRI Data** → `notebooks/2_undersampling.ipynb`  
-3️⃣ **Model Training** → `notebooks/3_training.ipynb`  
-4️⃣ **Testing & Evaluation** → `notebooks/4_testing.ipynb`  
+1️⃣ **Preprocessing** → `1_preprocessing.ipynb`  
+2️⃣ **Undersampling MRI Data** → `2_undersampling.ipynb`  
+3️⃣ **Model Training** → `3_training.ipynb`  
+4️⃣ **Testing & Evaluation** → `4_testing.ipynb`  
 
 To run the project, execute the notebooks sequentially in Jupyter Notebook or Google Colab.
 
