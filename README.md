@@ -20,6 +20,9 @@ MRI scans are crucial for neurological diagnoses, but they are **time-consuming 
 📌 **Centre:** Traditional Full Scan (~40% Faster)
 📌 **Right:** Traditional Full Scan (100%)
 
+## FINAL MODEL ##
+
+MRI_Reconstruction_model - " https://drive.google.com/file/d/1RgysI25X82-uUYOcBoZUGgwUUBF9L71a/view?usp=sharing "(couldn't upload cuz size > 33MB)
 ---
 
 ## 🌟 Features
