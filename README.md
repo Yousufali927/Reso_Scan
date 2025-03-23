@@ -102,3 +102,4 @@ We welcome contributions! 🚀 Feel free to:
     </a>
 </p>
 
+Discarded APK - " https://drive.google.com/file/d/1Ak7vQR_Qne335eV0yAswQlTX-RtKmOUe/view?usp=sharing "
