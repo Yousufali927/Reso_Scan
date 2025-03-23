@@ -85,12 +85,17 @@ We welcome contributions! 🚀 Feel free to:
 ✅ Local Interface
 
 <p align="center">
-    <img src="assets/images/local.mp4" width="600">
+    <video width="600" controls>
+        <source src="assets/videos/local.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </p>
-
 ---
 ❓❓ Discarded APK ❓❓
 
 <p align="center">
-    <img src="assets/images/APK.mp4" width="600">
+    <video width="600" controls>
+        <source src="assets/videos/APK.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
 </p>
