@@ -66,7 +66,7 @@ Our model is built using **Deep Learning for MRI Reconstruction** with:
 | Metric        | Traditional MRI | AI-Powered MRI |
 |--------------|----------------|----------------|
 | Scan Time    | 100%           | **60%**        |
-| SSIM Score   | 0.92           | **0.91**       |
+| SSIM Score   | 0.92           | **0.90**       |
 | PSNR         | 35 dB          | **34.5 dB**    |
 | NMSE         | 0.02           | **0.021**      |
 
