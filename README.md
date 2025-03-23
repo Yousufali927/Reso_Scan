@@ -94,7 +94,7 @@ We welcome contributions! 🚀 Feel free to:
 ❓❓ Discarded APK ❓❓
 
 <p align="center">
-    <a href="https://github.com/Reso_Scan/assets/videos/APK.mp4">
+    <a href="https://github.com/Yousufali927/Reso_Scan/assets/videos/APK.mp4">
         <img src="assets/images/video_thumbnail.png" width="600">
     </a>
 </p>
